@@ -2,7 +2,7 @@
 
 # modern-icons-helm-ag.el
 
-Modern icons for Emacs helm-ag.
+Modern icons for Emacs [helm-ag](https://github.com/emacsattic/helm-ag).
 
 </div>
 
