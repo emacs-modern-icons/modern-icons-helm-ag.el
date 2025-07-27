@@ -6,7 +6,7 @@ Modern icons for Emacs [helm-ag](https://github.com/emacsattic/helm-ag).
 
 </div>
 
-This library integrates [modern-icons.el](https://github.com/taquangtrung/modern-icons.el) to display modern and pretty SVG icons for [helm-ag](https://github.com/emacsattic/helm-ag) search results in Emacs.
+This library integrates [modern-icons.el](https://github.com/emacs-modern-icons/modern-icons.el) to display modern and pretty SVG icons for [helm-ag](https://github.com/emacsattic/helm-ag) search results in Emacs.
 
 ## Installation
 
@@ -15,7 +15,7 @@ Manually include [modern-icons-helm-ag.el](modern-icons-helm-ag.el) into your Em
 ```elisp
 (use-package modern-icons
   :straight (modern-icons :type git :host github
-                          :repo "taquangtrung/modern-icons-helm-ag.el"))
+                          :repo "emacs-modern-icons/modern-icons-helm-ag.el"))
 ```
 
 ## Usage
